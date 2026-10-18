@@ -1,5 +1,25 @@
 {
+  "name": "a_multi-agent_orcastation",
+  "version": "1.0.0",
+  "description": "Enhancing AI Decision-Making Through Multi-Agent Orchestration",
+  "homepage": "https://github.com/Amolkore07/-Multi-Agent-orcastation-system#readme",
+  "bugs": {
+    "url": "https://github.com/Amolkore07/-Multi-Agent-orcastation-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amolkore07/-Multi-Agent-orcastation-system.git"
+  },
+  "license": "ISC",
+  "author": "Amol kore",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.8",
     "express": "^5.3.0"
   }
 }
